@@ -1,6 +1,6 @@
-package main.pl.coderslab.workshophibernate.controller;
+package pl.coderslab.workshophibernate.controller;
 
-import main.pl.coderslab.workshophibernate.book.Book;
+import pl.coderslab.workshophibernate.book.Book;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

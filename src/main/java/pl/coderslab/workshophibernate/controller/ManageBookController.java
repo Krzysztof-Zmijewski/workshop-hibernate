@@ -1,8 +1,8 @@
-package main.pl.coderslab.workshophibernate.controller;
+package pl.coderslab.workshophibernate.controller;
 
 import lombok.AllArgsConstructor;
-import main.pl.coderslab.workshophibernate.book.Book;
-import main.pl.coderslab.workshophibernate.service.BookService;
+import pl.coderslab.workshophibernate.book.Book;
+import pl.coderslab.workshophibernate.service.BookService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

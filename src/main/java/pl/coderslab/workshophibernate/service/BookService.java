@@ -1,6 +1,6 @@
-package main.pl.coderslab.workshophibernate.service;
+package pl.coderslab.workshophibernate.service;
 
-import main.pl.coderslab.workshophibernate.book.Book;
+import pl.coderslab.workshophibernate.book.Book;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package main.pl.coderslab.workshophibernate;
+package pl.coderslab.workshophibernate;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

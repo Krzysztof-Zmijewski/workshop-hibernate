@@ -1,7 +1,9 @@
-package main.pl.coderslab.workshophibernate.book;
+package pl.coderslab.workshophibernate.book;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 import lombok.*;
+
+import javax.persistence.Entity;
 
 @Getter
 @Setter
